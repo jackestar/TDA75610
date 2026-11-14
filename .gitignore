@@ -44,4 +44,6 @@ fp-info-cache
 
 # Exported files
 *.glb
+*.step
+*.stp
 *.pdf
